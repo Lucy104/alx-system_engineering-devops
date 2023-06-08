@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrp betty 0-iam_betty | wc -c 8
+su betty
